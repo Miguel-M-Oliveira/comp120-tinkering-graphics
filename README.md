@@ -2,6 +2,9 @@ Using GNU General Public License, a free, copyleft license for software and othe
 
 Using Python 3.7 and Pygame 1.9.6
 
+Be aware that the use of the console is necessary to operate this program.
+Simply choose one of the textures and it will be generated.
+
 All art assets have been sourced from www.opengameart.org:
 - "Dry leaves tiling texture" by Lamoot
 - "Regular Hedge" by Lamoot
