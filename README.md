@@ -1,5 +1,7 @@
 Using GNU General Public License, a free, copyleft license for software and other kinds of works.
 
+Using Python 3.7 and Pygame 1.9.6
+
 All art assets have been sourced from www.opengameart.org:
 - "Dry leaves tiling texture" by Lamoot
 - "Regular Hedge" by Lamoot
