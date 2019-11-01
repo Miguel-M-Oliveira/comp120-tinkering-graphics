@@ -1,8 +1,8 @@
 Using GNU General Public License, a free, copyleft license for software and other kinds of works.
 
 All art assets have been sourced from www.opengameart.org:
--"Dry leaves tiling texture" by Lamoot
--"Regular Hedge" by Lamoot
+- "Dry leaves tiling texture" by Lamoot
+- "Regular Hedge" by Lamoot
 -"Ivy Hedge" by Lamoot
 -"30 Grass Textures (Tilable) - tileable-IMG_0062-verydark.png" by p0ss
 -"30 Grass Textures (Tilable) - tileable-IMG_0062-lush.png" by p0ss
